@@ -14,7 +14,7 @@ public class TestThird {
 
 
         f1.stampa(f2);
-        q2.stampa(f2);
+        q2.stampa(r1);
         f1.stampa(q2);
         q2.stampa(f1);
         q2.stampa(q2);

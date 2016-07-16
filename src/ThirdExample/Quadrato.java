@@ -6,7 +6,7 @@ package ThirdExample;
 public class Quadrato extends Figura {
 
     public void stampa(Quadrato quadrato){
-        System.out.println("Quadratos");
+        System.out.println("Quadrato - Quadrato");
     }
 
 }
