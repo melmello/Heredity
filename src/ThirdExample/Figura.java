@@ -5,9 +5,8 @@ package ThirdExample;
  */
 public class Figura {
 
-
     public void stampa(Figura figura){
-        System.out.println("Figura");
+        System.out.println("Figura - Figura");
     }
 
 }

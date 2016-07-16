@@ -13,11 +13,7 @@ public class TestThird {
         Rettangolo r1 = new Rettangolo();
 
 
-        f1.stampa(f2);
-        q2.stampa(f2);
-        f1.stampa(q2);
-        q2.stampa(f1);
-        q2.stampa(q2);
+        q2.stampa(r1);
 
     }
 
