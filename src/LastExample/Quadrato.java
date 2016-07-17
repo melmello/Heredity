@@ -14,4 +14,5 @@ public class Quadrato extends Figura{
     public String toString() {
         return "Quadrato";
     }
+
 }
